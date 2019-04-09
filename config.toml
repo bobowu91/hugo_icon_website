@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/bg_1.jpg"
   title = "Welcome to BOBOWU's Blog"
   description = "This is where I share with you my thoughts on business analytcs from data management, modelling to visualisation."
 
